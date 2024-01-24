@@ -1,4 +1,7 @@
 # What is Vidi?
+
+Don't accept this! It's just for a screenshot for the documentation about Git!
+
 Vidi is a modern take on web GIS. It is the front-end for [GC2](https://github.com/mapcentia/geocloud2)
 
 Vidi is part of the [OSGeo Community Project GC2/Vidi](https://www.osgeo.org/projects/gc2-vidi/)
